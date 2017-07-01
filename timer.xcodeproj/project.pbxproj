@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					52ABE0681DBC227C006601E8 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 7W2S4M7JZM;
+						DevelopmentTeam = R2TKC8QQ8R;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7W2S4M7JZM;
+				DEVELOPMENT_TEAM = R2TKC8QQ8R;
 				INFOPLIST_FILE = Timer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.practiceOK;
@@ -274,7 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7W2S4M7JZM;
+				DEVELOPMENT_TEAM = R2TKC8QQ8R;
 				INFOPLIST_FILE = Timer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.practiceOK;

@@ -61,19 +61,9 @@ class ViewController: UIViewController {
         counter += 0.1
         timeLabel.text = String(format: "%.1f", counter)
     
+    }
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
