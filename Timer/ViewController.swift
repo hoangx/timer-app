@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Timer
 //
-//  Created by Duc Tran on 10/22/16.
-//  Copyright © 2016 Developers Academy. All rights reserved.
+//  Created by Tommy Hoang on 07/01/17.
+//  Copyright © 2017. All rights reserved.
 //
 
 import UIKit
